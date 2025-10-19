@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-  "homepage": "https://DudeBruh326.github.io/appdev1-midterm-exam./"
+    "homepage": "https://DudeBruh326.github.io/appdev1-midterm-exam/"
   },
   "dependencies": {
     "react": "^19.1.1",
